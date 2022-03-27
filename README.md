@@ -3,7 +3,7 @@
 Applied this one<br>
 https://jobs.scotiabank.com/job/2022-GCM-Summer-Analyst%2C-New-York-NY/556935817/?feedId=348717&utm_source=Indeed&utm_campaign=TheBankofNovaScotia_Indeed
 
-You need to apply the following:
+You need to apply the following:<br>
 [2023 Summer intern citadeal](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/)
 
 [list of intern at citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)

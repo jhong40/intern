@@ -4,9 +4,7 @@
 
 You need to apply the following:<br>
 - citadel
-[2023 Summer intern citadeal](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/)
-
-[list of intern at citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)
+[2023 Summer intern citadeal](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/). More here [list of intern at citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)
 
 - rockcreek
 Please apply this one as they ask which area you want to work on (public equities, emerging markets, hedge funds, private markets, client services, or data & technology)

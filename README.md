@@ -2,7 +2,7 @@
 ## 3/27
 
 
-You need to apply the following:<br>
+You can apply the following:<br>
 - citadel
 [2023 Summer intern citadeal](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2023-us/). More here [list of intern at citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern)
 
